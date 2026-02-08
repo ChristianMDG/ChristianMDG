@@ -7,8 +7,6 @@
 </p>
 <h3 align="center">A passionate FullStack developer from Madagascar</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianmdg" alt="christianmdg" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot,**
 
 - 👨‍💻 All of my projects are available at [https://christian-portfolio-u9jz.vercel.app/](https://christian-portfolio-u9jz.vercel.app/)
