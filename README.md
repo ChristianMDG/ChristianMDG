@@ -1,3 +1,4 @@
+![Header](assets/banner.png)
 ## Hi there 👋
 
 <!--
