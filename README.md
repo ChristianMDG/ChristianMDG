@@ -2,7 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Christian RAVELOJAONA</h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Developer+fullstack;">
+<p style="margin: 15px;" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Developer+fullstack;">
+</p>
 <h3 align="center">A passionate FullStack developer from Madagascar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianmdg" alt="christianmdg" /></a> </p>
