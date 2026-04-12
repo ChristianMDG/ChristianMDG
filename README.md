@@ -205,9 +205,7 @@ christian@mdg ~ $ _
       <br/><br/>
       <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
   <img src="assets/logoportfolio.png" width="20" />
-
   <b>Portfolio</b>
-
 </div>
       <br/>
       <sub>React • Tailwindcss • Framer Motion</sub><br/><br/>
@@ -218,7 +216,7 @@ christian@mdg ~ $ _
       <a href=" https://planifeomoney.vercel.app/">
         <img src="assets/planifeo.png" width="95%" />
       </a>
-      <br/><br/>
+      <br/>
       <b>Planifeo App</b><br/>
       <sub>React • Node.js • Express Js • Prisma </sub><br/><br/>
       <a href="
