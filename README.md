@@ -207,7 +207,7 @@ christian@mdg ~ $ _
       <br/><br/>
       <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
 
-  <img src="assets/logoportfolio.png" width="30" />
+  <img src="assets/logoportfolio.png" width="15" />
 
   <span style="font-size: 15px; font-weight: bold;">
     Portfolio
@@ -226,7 +226,7 @@ christian@mdg ~ $ _
       <br/><br/>
       <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
 
-  <img src="assets/planifeologo.png" width="30" style="border-radius:100%"/>
+  <img src="assets/planifeologo.png" width="15" style="border-radius:100%"/>
 
   <span style="font-size: 15px; font-weight: bold;">
     Planifeo App
