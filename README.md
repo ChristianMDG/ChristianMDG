@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;+FullStack+Developer;+Data-Scientist/Ai;+Welcome+to+my+Univers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;+FullStack+Developer;+Data-Scientist/Ai;+Welcome+to+my+Univer)](https://git.io/typing-svg)
 
 <br/>
 
