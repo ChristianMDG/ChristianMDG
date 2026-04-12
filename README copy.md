@@ -2,19 +2,9 @@
 
 ![Banner](assets/banner.png)
 
-</div>
-
-<!-- ████████████████████████████████████████████
-     HERO SECTION
-████████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:6366f1,100:06b6d4&height=140&section=header&text=Christian%20RAVELOJAONA&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=FullStack%20Developer%20·%20Madagascar%20🇲🇬&descSize=14&descAlignY=80&descColor=EBD41B" />
-
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;⚛️+React+%7C+Node.js+%7C+Spring+Boot;🌍+Building+from+Madagascar;🚀+FullStack+Developer;✨+Three.js+%7C+3D+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=560&lines=👋+Hey%2C+I'm+Christian!;🌍+Building+from+Madagascar;🚀+FullStack+Developer;🤖+Data+Scientist+%2F+AI+Explorer;✨+Three.js+%7C+3D+Experiences)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,9 +17,9 @@
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     ABOUT — SPLIT LAYOUT
-████████████████████████████████████████████ -->
+---
+
+## 🧑‍💻 whoami &nbsp;·&nbsp; 📡 status
 
 <table>
 <tr>
@@ -41,18 +31,24 @@
 const christian = {
   name     : "Christian RAVELOJAONA",
   location : "Antananarivo, Madagascar 🇲🇬",
-  role     : "FullStack Developer",
+  roles    : [
+    "FullStack Developer 🚀",
+    "Data Scientist 📊",
+    "AI Explorer 🤖",
+  ],
 
   stack: {
     frontend : ["React", "Vite", "TailwindCSS", "Three.js"],
     backend  : ["Node.js", "Express.js", "Spring Boot", "FastAPI"],
     database : ["PostgreSQL", "Prisma"],
+    data_ai  : ["Python", "TensorFlow", "Scikit-learn",
+                "Pandas", "NumPy", "Matplotlib"],
     langs    : ["TypeScript", "JavaScript", "Java", "Python"],
   },
 
-  learning : "Spring Boot 🌱",
-  openTo   : "Freelance & Open Source",
-  funFact  : "I build 3D worlds with Three.js ✨",
+  learning : ["Spring Boot 🌱", "Deep Learning 🧠"],
+  openTo   : "Freelance · Open Source · AI Projects",
+  funFact  : "I turn data into insights & coffee into code ✨",
 };
 ```
 
@@ -61,22 +57,25 @@ const christian = {
 
 ## `$ status`
 
-```yaml
-💼 Role       : FullStack Developer
-📍 Location   : Madagascar 🇲🇬
-🌱 Learning   : Spring Boot
-💬 Ask me    : React · Express · PostgreSQL
-🎯 Goal       : Build impactful products
-⚡ Superpower : Turning ☕ into </code>
-🌐 Portfolio  : vercel.app ↗
-📫 Contact    : Gmail ↗
+```bash
+christian@mdg ~ $ status
+
+  roles     → FullStack Dev · Data Sci · AI
+  location  → Madagascar 🇲🇬
+  learning  → Spring Boot · Deep Learning
+  goal      → Build impactful AI products
+  contact   → hei.christian.3@gmail
+  portfolio → vercel.app ↗
+
+  # availability
+  status    → ● Open to work
+  open_to   → Freelance · Collab · AI
+
+christian@mdg ~ $ _
 ```
 
-<br/>
-
-> *"The best way to predict*
-> *the future is to code it."*
-> — **Christian RAVELOJAONA** 🚀
+> *"Turning data into decisions*
+> *and ideas into code."* 🚀
 
 </td>
 </tr>
@@ -84,66 +83,119 @@ const christian = {
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     TECH STACK — VISUAL GRID
-████████████████████████████████████████████ -->
+---
 
 ## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 🎨 &nbsp;Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/></a>&nbsp;
+<a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" title="TailwindCSS"/></a>&nbsp;
+<a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" title="Three.js"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/></a>
+</p>
 
-### ⚙️ &nbsp;Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/></a>&nbsp;
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/></a>&nbsp;
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"/></a>&nbsp;
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java"/></a>
+</p>
 
-### 🗄️ &nbsp;Database & ORM
+### 🗄️ Database & ORM
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<p align="center">
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
+<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" title="Prisma"/></a>
+</p>
 
-### 🐍 &nbsp;Data & Analytics
+### 🤖 Data Science & AI / ML
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/></a>&nbsp;
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow"/></a>&nbsp;
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"/></a>&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn" title="Scikit-learn"/></a>&nbsp;
+<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" title="NumPy"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas"/>&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Matplotlib"/>&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Seaborn"/>&nbsp;
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" title="Jupyter Notebook"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="HuggingFace"/>
+</p>
 
-### 🛠️ &nbsp;Tools & Design
+### 🛠️ Tools & Design
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+<p align="center">
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/></a>&nbsp;
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/></a>&nbsp;
+<a href="https://www.canva.com/"><img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva" title="Canva"/></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/></a>
+</p>
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     GITHUB STATS — PREMIUM LAYOUT
-████████████████████████████████████████████ -->
+---
+
+## 🤖 Data Science & AI Profile
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                   AI / DATA SCIENCE TOOLKIT                     │
+├──────────────────────┬──────────────────────────────────────────┤
+│  📊 Data Analysis    │  Python · Pandas · NumPy · Matplotlib    │
+│  🧠 Machine Learning │  Scikit-learn · XGBoost · RandomForest   │
+│  🔥 Deep Learning    │  TensorFlow · PyTorch · Keras            │
+│  🤗 NLP / LLMs       │  HuggingFace · Transformers · LangChain  │
+│  📈 Visualization    │  Matplotlib · Seaborn · Plotly           │
+│  🧪 Notebooks        │  Jupyter · Google Colab                  │
+│  ☁️  MLOps           │  FastAPI · Docker · GitHub Actions       │
+└──────────────────────┴──────────────────────────────────────────┘
+```
+
+</div>
+
+### 🧠 AI/ML Focus Areas
+
+<div align="center">
+
+| Domain | Skills | Level |
+|--------|--------|-------|
+| 📊 Data Analysis & EDA | Pandas · NumPy · Seaborn | `████████░░` 80% |
+| 🤖 Machine Learning | Scikit-learn · XGBoost | `███████░░░` 70% |
+| 🔥 Deep Learning | TensorFlow · PyTorch | `██████░░░░` 60% |
+| 🗣️ NLP / LLMs | HuggingFace · Transformers | `█████░░░░░` 50% |
+| 📈 Data Visualization | Matplotlib · Plotly | `████████░░` 80% |
+| ☁️ MLOps & Deployment | FastAPI · Docker | `██████░░░░` 60% |
+
+</div>
+
+<br/>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChristianMDG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=400" />
-&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChristianMDG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+&nbsp;
 <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=ChristianMDG&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
@@ -154,9 +206,7 @@ const christian = {
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     ACTIVITY GRAPH
-████████████████████████████████████████████ -->
+---
 
 ## 📈 Contribution Graph
 
@@ -168,9 +218,7 @@ const christian = {
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     TROPHIES
-████████████████████████████████████████████ -->
+---
 
 ## 🏆 GitHub Trophies
 
@@ -182,9 +230,7 @@ const christian = {
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     TOP REPOS
-████████████████████████████████████████████ -->
+---
 
 ## 🔝 Top Contributions
 
@@ -196,89 +242,81 @@ const christian = {
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     CURRENTLY LEARNING + PROGRESS
-████████████████████████████████████████████ -->
+---
 
-## 🌱 Currently Learning
+## 🌱 Learning Progress
 
 <div align="center">
 
-|  | Technology | Progress | Status |
+| | Technology | Progress | Status |
 |--|-----------|----------|--------|
-| 🍃 | **Spring Boot** | `████████░░` 80% | 🔥 Active |
-| ⚛️ | **React Advanced** | `██████████` 100% | ✅ Done |
-| 🐘 | **PostgreSQL Deep Dive** | `███████░░░` 70% | 📚 Ongoing |
-| 🐍 | **Python Data Science** | `█████░░░░░` 50% | 🌱 Learning |
+| <img src="https://skillicons.dev/icons?i=spring" height="20"/> | **Spring Boot** | `████████░░` 80% | 🔥 Active |
+| <img src="https://skillicons.dev/icons?i=tensorflow" height="20"/> | **TensorFlow / Deep Learning** | `██████░░░░` 60% | 🧠 Ongoing |
+| <img src="https://skillicons.dev/icons?i=pytorch" height="20"/> | **PyTorch** | `█████░░░░░` 50% | 🌱 Learning |
+| <img src="https://skillicons.dev/icons?i=react" height="20"/> | **React Advanced** | `██████████` 100% | ✅ Done |
+| <img src="https://skillicons.dev/icons?i=postgres" height="20"/> | **PostgreSQL Deep Dive** | `███████░░░` 70% | 📚 Ongoing |
+| <img src="https://skillicons.dev/icons?i=python" height="20"/> | **Python Data Science** | `████████░░` 80% | 📊 Active |
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     SNAKE CONTRIBUTION ANIMATION
-████████████████████████████████████████████ -->
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake-dark.svg"/>
 </picture>
 
-> 💡 To activate the snake, add a GitHub Action — see [platane/snk](https://github.com/platane/snk)
+> 💡 Activate with GitHub Actions — see [platane/snk](https://github.com/platane/snk)
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     CONNECT
-████████████████████████████████████████████ -->
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/ChristianRavelojaona">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://christian-portfolio-u9jz.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-EBD41B?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-EBD41B?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 &nbsp;
 <a href="mailto:hei.christian.3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████
-     FOOTER
-████████████████████████████████████████████ -->
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0d1117&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0d1117&height=100&section=footer&animation=twinkling"/>
 
 [![Visitor Badge](https://visitcount.itsvg.in/api?id=ChristianMDG&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ```
-╔═══════════════════════════════════════════════════╗
-║  "The best way to predict the future is to        ║
-║   code it."               — Christian MDG  🚀     ║
-╚═══════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to code it.  ║
+║   The best way to understand it is to model it." 🚀  ║
+║                         — Christian MDG              ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
 **Madagascar 🇲🇬 · © 2025 Christian RAVELOJAONA**
 
 </div>
-

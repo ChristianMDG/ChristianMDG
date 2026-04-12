@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;⚛️+React+%7C+Node.js+%7C+Spring+Boot;🌍+Building+from+Madagascar;🚀+FullStack+Developer;✨+Three.js+%7C+3D+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;+FullStack+Developer;+Data-Scientist/Ai;+Welcome+to+my+Univers)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,18 +35,25 @@
 const christian = {
   name     : "Christian RAVELOJAONA",
   location : "Antananarivo, Madagascar 🇲🇬",
-  role     : "FullStack Developer",
+  roles    : [
+    "FullStack Developer 🚀",
+    "Data Scientist 📊",
+    "AI Explorer 🤖",
+  ],
+
 
   stack: {
     frontend : ["React", "Vite", "TailwindCSS", "Three.js"],
     backend  : ["Node.js", "Express.js", "Spring Boot", "FastAPI"],
     database : ["PostgreSQL", "Prisma"],
+     data_ai  : ["Python", "TensorFlow", "Scikit-learn",
+                "Pandas", "NumPy", "Matplotlib"],
     langs    : ["TypeScript", "JavaScript", "Java", "Python"],
   },
 
   learning : "Spring Boot 🌱",
-  openTo   : "Freelance & Open Source",
-  funFact  : "I build 3D worlds with Three.js ✨",
+  openTo   : "Freelance · Open Source · AI Projects",
+ funFact  : "I turn data into insights & coffee into code ",
 };
 ```
 
@@ -64,7 +71,9 @@ const christian = {
 ⚡ Superpower : Turning ☕ into </code>
 🌐 Portfolio  : vercel.app ↗
 📫 Contact    : Gmail ↗
+
 ```
+
 </table>
 
 <br/>
