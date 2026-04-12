@@ -79,7 +79,7 @@ christian@mdg ~ $ _
 ```
 
 > *"Turning data into decisions*
-> *and ideas into code."* 🚀
+> *and ideas into code."* 
 
 </td>
 </tr>
