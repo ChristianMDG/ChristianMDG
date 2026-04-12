@@ -195,7 +195,7 @@ christian@mdg ~ $ _
 
 <div align="center">
 
-<table width="100%">
+<table cellspacing="20" cellpadding="15">
   <tr>
     <td align="center" width="50%">
       <a href="https://ton-app.com">
@@ -278,7 +278,7 @@ christian@mdg ~ $ _
 <br/>
 
 --- -->
-
+<!-- 
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -295,7 +295,7 @@ christian@mdg ~ $ _
 
 <br/>
 
----
+--- -->
 
 ## 🤝 Let's Connect
 
@@ -317,13 +317,13 @@ christian@mdg ~ $ _
 
 <br/>
 
----
+<!-- ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0d1117&height=100&section=footer&animation=twinkling"/>
 
-[![Visitor Badge](https://visitcount.itsvg.in/api?id=ChristianMDG&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Visitor Badge](https://visitcount.itsvg.in/api?id=ChristianMDG&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
 
 ```
 ╔═══════════════════════════════════════════════════╗
