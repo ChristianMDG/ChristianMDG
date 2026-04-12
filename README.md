@@ -63,7 +63,7 @@ christian@mdg ~ $ status
   learning  → Spring Boot · Deep Learning
   goal      → Build impactful AI products
   contact   → hei.christian.3@gmail
-  portfolio → vercel.app ↗
+  portfolio → https://christian-portfolio-u9jz.vercel.app/ ↗
 
   # availability
   status    → ● Open to work
@@ -146,7 +146,7 @@ christian@mdg ~ $ _
 
 <br/>
 
----
+<!-- ---
 
 ## 📊 GitHub Analytics
 
@@ -164,7 +164,7 @@ christian@mdg ~ $ _
 
 <br/>
 
----
+--- -->
 
 ## 📈 Contribution Graph
 
@@ -176,46 +176,72 @@ christian@mdg ~ $ _
 
 <br/>
 
----
+<!-- ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChristianMDG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+![Top trophies](https://github-profile-trophy.vercel.app/?username=ChristianMDG&rank=SSS,SS,AAA)
 
 </div>
 
 <br/>
 
 ---
+-->
+<h2 align="center">🚀 Live Projects</h2>
 
-## 🔝 Top Contributions
+<div align="left">
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ChristianMDG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-
+<div>
+  <h3>🌐 App Immobilier</h3>
+  <p>Spring Boot + React</p>
+  <a href="https://ton-app.com">🔗 Live Demo</a><br/>
+  <a href="https://github.com/ChristianMDG/app-immo">📦 Source Code</a>
 </div>
 
 <br/>
 
----
+<div>
+  <h3>🛒 E-commerce</h3>
+  <p>React + Node.js</p>
+  <a href="https://shop.vercel.app">🔗 Live Demo</a><br/>
+  <a href="https://github.com/ChristianMDG/shop">📦 Source Code</a>
+</div>
+
+</div>
+<br/>
+
+--- 
 
 ## 🌱 Learning Progress
 
-<div align="center">
+## 🚀 Tech Stack Progress
 
-| | Technology | Progress | Status |
-|--|-----------|----------|--------|
-| <img src="https://skillicons.dev/icons?i=spring" height="20"/> | **Spring Boot** | `████████░░` 80% | 🔥 Active |
-| <img src="https://skillicons.dev/icons?i=tensorflow" height="20"/> | **TensorFlow / Deep Learning** | `██████░░░░` 60% | 🧠 Ongoing |
-| <img src="https://skillicons.dev/icons?i=pytorch" height="20"/> | **PyTorch** | `█████░░░░░` 50% | 🌱 Learning |
-| <img src="https://skillicons.dev/icons?i=react" height="20"/> | **React Advanced** | `██████████` 100% | ✅ Done |
-| <img src="https://skillicons.dev/icons?i=postgres" height="20"/> | **PostgreSQL Deep Dive** | `███████░░░` 70% | 📚 Ongoing |
-| <img src="https://skillicons.dev/icons?i=python" height="20"/> | **Python Data Science** | `████████░░` 80% | 📊 Active |
+🔹 **Spring Boot**  
+████████░░  
+🔥 Active  
 
-</div>
+🔹 **TensorFlow / Deep Learning**  
+██████░░░░  
+🧠 Ongoing  
+
+🔹 **PyTorch**  
+█████░░░░░  
+🌱 Learning  
+
+🔹 **React Advanced**  
+██████████  
+✅ Completed  
+
+🔹 **PostgreSQL Deep Dive**  
+███████░░░  
+📚 Ongoing  
+
+🔹 **Python Data Science**  
+████████░░  
+📊 Active  
 
 <br/>
 
