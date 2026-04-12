@@ -60,6 +60,34 @@ const christian = {
 <td width="45%" valign="top">
 
 ## `$ status`
+
+```bash
+christian@mdg ~ $ status
+
+  roles     → FullStack Dev · Data Sci · AI
+  location  → Madagascar 🇲🇬
+  learning  → Spring Boot · Deep Learning
+  goal      → Build impactful AI products
+  contact   → hei.christian.3@gmail
+  portfolio → vercel.app ↗
+
+  # availability
+  status    → ● Open to work
+  open_to   → Freelance · Collab · AI
+
+christian@mdg ~ $ _
+```
+
+> *"Turning data into decisions*
+> *and ideas into code."* 🚀
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
 ## ⚡ Tech Arsenal
 <div align="center">
 
