@@ -27,26 +27,28 @@
 
 ```typescript
 const christian = {
-  name     : "Christian RAVELOJAONA",
-  location : "Antananarivo, Madagascar 🇲🇬",
-  roles    : [
-    "FullStack Developer 🚀",
-    "Data Scientist 📊",
-    "AI Explorer 🤖",
-  ],
+  name: "Christian RAVELOJAONA",
+  location: "Antananarivo, Madagascar 🇲🇬",
+  roles: ["FullStack Developer 🚀", "Data Scientist 📊", "AI Explorer 🤖"],
 
   stack: {
-    frontend : ["React", "Vite", "TailwindCSS", "Three.js"],
-    backend  : ["Node.js", "Express.js", "Spring Boot", "FastAPI"],
-    database : ["PostgreSQL", "Prisma"],
-    data_ai  : ["Python", "TensorFlow", "Scikit-learn",
-                "Pandas", "NumPy", "Matplotlib"],
-    langs    : ["TypeScript", "JavaScript", "Java", "Python"],
+    frontend: ["React", "Vite", "TailwindCSS", "Three.js"],
+    backend: ["Node.js", "Express.js", "Spring Boot", "FastAPI"],
+    database: ["PostgreSQL", "Prisma"],
+    data_ai: [
+      "Python",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+    ],
+    langs: ["TypeScript", "JavaScript", "Java", "Python"],
   },
 
-  learning : ["Spring Boot 🌱", "Deep Learning 🧠"],
-  openTo   : "Freelance · Open Source · AI Projects",
-  funFact  : "I turn data into insights & coffee into code ✨",
+  learning: ["Spring Boot 🌱", "Deep Learning 🧠"],
+  openTo: "Freelance · Open Source · AI Projects",
+  funFact: "I turn data into insights & coffee into code ✨",
 };
 ```
 
@@ -72,8 +74,8 @@ christian@mdg ~ $ status
 christian@mdg ~ $ _
 ```
 
-> *"Turning data into decisions*
-> *and ideas into code."*
+> _"Turning data into decisions_
+> _and ideas into code."_
 
 </td>
 </tr>
@@ -203,7 +205,16 @@ christian@mdg ~ $ _
         <img src="assets/portfolio.png" width="95%" />
       </a>
       <br/><br/>
-      <b>🌐 Portfolio</b><br/>
+      <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
+
+  <img src="assets/logoportfolio.png" width="30" />
+
+  <span style="font-size: 15px; font-weight: bold;">
+    Portfolio
+  </span>
+
+</div>
+      <br/>
       <sub>React • Tailwindcss • Framer Motion</sub><br/><br/>
       <a href="https://christian-portfolio-u9jz.vercel.app/">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/Christian_Portfolio">💻 Source Code</a>
@@ -213,10 +224,19 @@ christian@mdg ~ $ _
         <img src="assets/planifeo.png" width="95%" />
       </a>
       <br/><br/>
-      <b>Planifeo App</b><br/>
+      <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
+
+  <img src="assets/.png" width="30" />
+
+  <span style="font-size: 15px; font-weight: bold;">
+    Planifeo App
+  </span>
+
+</div>
+      <br/>
       <sub>React • Node.js • Express Js • Prisma </sub><br/><br/>
-      <a href="
-      https://planifeomoney.vercel.app/">🔗 Live Demo</a> •
+      <a href="https://planifeomoney.vercel.app/">🔗 Live Demo</a> 
+      <br/>
       <a href="https://github.com/ChristianMDG/Planifeo_frontend">💻 Source Code Frontend</a>
       <br/>
        <a href="https://github.com/ChristianMDG/Planifeo_backend">💻 Source Code Backend</a>
@@ -251,40 +271,40 @@ christian@mdg ~ $ _
 </div>
 <br/>
 
-<!-- --- 
+<!-- ---
 
 ## 🌱 Learning Progress
 
 ## 🚀 Tech Stack Progress
 
-🔹 **Spring Boot**  
-████████░░  
-🔥 Active  
+🔹 **Spring Boot**
+████████░░
+🔥 Active
 
-🔹 **TensorFlow / Deep Learning**  
-██████░░░░  
-🧠 Ongoing  
+🔹 **TensorFlow / Deep Learning**
+██████░░░░
+🧠 Ongoing
 
-🔹 **PyTorch**  
-█████░░░░░  
-🌱 Learning  
+🔹 **PyTorch**
+█████░░░░░
+🌱 Learning
 
-🔹 **React Advanced**  
-██████████  
-✅ Completed  
+🔹 **React Advanced**
+██████████
+✅ Completed
 
-🔹 **PostgreSQL Deep Dive**  
-███████░░░  
-📚 Ongoing  
+🔹 **PostgreSQL Deep Dive**
+███████░░░
+📚 Ongoing
 
-🔹 **Python Data Science**  
-████████░░  
-📊 Active  
+🔹 **Python Data Science**
+████████░░
+📊 Active
 
 <br/>
 
 --- -->
-<!-- 
+<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -323,7 +343,7 @@ christian@mdg ~ $ _
 
 <br/>
 
- ---
+---
 
 <div align="center">
 
