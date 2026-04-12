@@ -223,21 +223,21 @@ christian@mdg ~ $ _
   <tr>
     <td align="center" width="50%" style="padding:15px;">
       <a href="https://dashboard.streamlit.app">
-        <img src="https://via.placeholder.com/400x220.png?text=Data+Dashboard" width="95%" />
+        <img src="assets/Traffic_Ai.png" width="95%" />
       </a>
       <br/><br/>
-      <b>📊 Data Dashboard</b><br/>
+      <b>📊 Trafic-Ai</b><br/>
       <sub>Python • Streamlit • Pandas</sub><br/><br/>
-      <a href="https://dashboard.streamlit.app">🔗 Live Demo</a> •
-      <a href="https://github.com/ChristianMDG/dashboard">💻 Source Code</a>
+      <a href="https://traffic-ai-3szvrge57wehtps7ghcb2d.streamlit.app/">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/Traffic-Ai">💻 Source Code</a>
     </td>
     <td align="center" width="50%" style="padding:15px;">
       <a href="https://ai-project.vercel.app">
         <img src="assets/pokedex.png" width="95%" />
       </a>
       <br/><br/>
-      <b>🧠 AI Project</b><br/>
-      <sub>TensorFlow • Deep Learning • Python</sub><br/><br/>
+      <b>🧠 Pokedex</b><br/>
+      <sub>React • Vite • Tailwindcss</sub><br/><br/>
       <a href="https://pokedex-tta8.vercel.app/">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/Pokedex">💻 Source Code</a>
     </td>
