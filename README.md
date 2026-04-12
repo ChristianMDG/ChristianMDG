@@ -253,6 +253,6 @@ const christian = {
 ╚═══════════════════════════════════════════════════╝
 ```
 
-**Made with ❤️ · Madagascar 🇲🇬 · © 2025 Christian RAVELOJAONA**
+**Madagascar 🇲🇬 · © 2025 Christian RAVELOJAONA**
 
 </div>
