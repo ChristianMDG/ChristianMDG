@@ -204,7 +204,7 @@ christian@mdg ~ $ _
       </a>
       <br/><br/>
       <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
-  <img src="assets/logoportfolio.png" width="20" />
+  <img src="assets/logoportfolio.png" width="20" /><br/>
   <b>Portfolio</b>
 </div>
       <br/>
