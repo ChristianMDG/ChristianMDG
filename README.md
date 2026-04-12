@@ -213,10 +213,11 @@ christian@mdg ~ $ _
         <img src="https://via.placeholder.com/400x220.png?text=E-commerce" width="95%" />
       </a>
       <br/><br/>
-      <b>🛒 E-commerce Platform</b><br/>
-      <sub>React • Node.js • Stripe</sub><br/><br/>
-      <a href="https://shop.vercel.app">🔗 Live Demo</a> •
-      <a href="https://github.com/ChristianMDG/shop">💻 Source Code</a>
+      <b>Planifeo App</b><br/>
+      <sub>React • Node.js • Express Js</sub><br/><br/>
+      <a href="
+      https://planifeomoney.vercel.app/">🔗 Live Demo</a> •
+      <a href="assets/planifeo.png">💻 Source Code</a>
     </td>
   </tr>
 
