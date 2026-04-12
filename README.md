@@ -245,7 +245,7 @@ christian@mdg ~ $ _
 </div>
 <br/>
 
---- 
+<!-- --- 
 
 ## 🌱 Learning Progress
 
@@ -277,7 +277,7 @@ christian@mdg ~ $ _
 
 <br/>
 
----
+--- -->
 
 ## 🐍 Contribution Snake
 
