@@ -41,19 +41,18 @@ const christian = {
     "AI Explorer 🤖",
   ],
 
-
   stack: {
     frontend : ["React", "Vite", "TailwindCSS", "Three.js"],
     backend  : ["Node.js", "Express.js", "Spring Boot", "FastAPI"],
     database : ["PostgreSQL", "Prisma"],
-     data_ai  : ["Python", "TensorFlow", "Scikit-learn",
+    data_ai  : ["Python", "TensorFlow", "Scikit-learn",
                 "Pandas", "NumPy", "Matplotlib"],
     langs    : ["TypeScript", "JavaScript", "Java", "Python"],
   },
 
-  learning : "Spring Boot 🌱",
+  learning : ["Spring Boot 🌱", "Deep Learning 🧠"],
   openTo   : "Freelance · Open Source · AI Projects",
- funFact  : "I turn data into insights & coffee into code ",
+  funFact  : "I turn data into insights & coffee into code ✨",
 };
 ```
 
@@ -61,25 +60,6 @@ const christian = {
 <td width="45%" valign="top">
 
 ## `$ status`
-
-```yaml
-💼 Role       : FullStack Developer
-📍 Location   : Madagascar 🇲🇬
-🌱 Learning   : Spring Boot
-💬 Ask me    : React · Express · PostgreSQL
-🎯 Goal       : Build impactful products
-⚡ Superpower : Turning ☕ into </code>
-🌐 Portfolio  : vercel.app ↗
-📫 Contact    : Gmail ↗
-
-```
-
-</table>
-
-<br/>
-
----
-
 ## ⚡ Tech Arsenal
 <div align="center">
 
