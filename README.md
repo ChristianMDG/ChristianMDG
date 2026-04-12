@@ -210,14 +210,15 @@ christian@mdg ~ $ _
     </td>
     <td align="center" width="50%" style="padding:15px;">
       <a href="https://shop.vercel.app">
-        <img src="https://via.placeholder.com/400x220.png?text=E-commerce" width="95%" />
+        <img src="assets/planifeo.png" width="95%" />
       </a>
       <br/><br/>
       <b>Planifeo App</b><br/>
       <sub>React • Node.js • Express Js</sub><br/><br/>
       <a href="
       https://planifeomoney.vercel.app/">🔗 Live Demo</a> •
-      <a href="assets/planifeo.png">💻 Source Code</a>
+      <a href="https://github.com/ChristianMDG/Planifeo_frontend">💻 Source Code Frontend</a>
+       <a href="https://github.com/ChristianMDG/Planifeo_backend">💻 Source Code Backend</a>
     </td>
   </tr>
 
