@@ -211,6 +211,7 @@ christian@mdg ~ $ _
       <sub>React • Tailwindcss • Framer Motion</sub><br/><br/>
       <a href="https://christian-portfolio-u9jz.vercel.app/">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/Christian_Portfolio">💻 Source Code</a>
+      <br/>
     </td>
     <td align="center" width="50%" style="padding:15px;">
       <a href=" https://planifeomoney.vercel.app/">
