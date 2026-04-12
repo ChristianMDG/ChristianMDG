@@ -206,9 +206,7 @@ christian@mdg ~ $ _
       <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
   <img src="assets/logoportfolio.png" width="20" />
 
-  <span style="font-size: 15px; font-weight: bold;">
-    Portfolio
-  </span>
+  <b>Portfolio</b>
 
 </div>
       <br/>
