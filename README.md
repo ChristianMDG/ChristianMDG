@@ -190,25 +190,57 @@ christian@mdg ~ $ _
 
 ---
 -->
-<h2 align="center">🚀 Live Projects</h2>
 
-<div align="left">
+<h2 align="center">🚀 Projects</h2>
 
-<div>
-  <h3>🌐 App Immobilier</h3>
-  <p>Spring Boot + React</p>
-  <a href="https://ton-app.com">🔗 Live Demo</a><br/>
-  <a href="https://github.com/ChristianMDG/app-immo">📦 Source Code</a>
-</div>
+<div align="center">
 
-<br/>
-
-<div>
-  <h3>🛒 E-commerce</h3>
-  <p>React + Node.js</p>
-  <a href="https://shop.vercel.app">🔗 Live Demo</a><br/>
-  <a href="https://github.com/ChristianMDG/shop">📦 Source Code</a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://ton-app.com">
+        <img src="https://via.placeholder.com/400x220.png?text=App+Immobilier" width="95%" />
+      </a>
+      <br/><br/>
+      <b>🌐 App Immobilier</b><br/>
+      <sub>Spring Boot • React • PostgreSQL</sub><br/><br/>
+      <a href="https://ton-app.com">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/app-immo">💻 Source Code</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://shop.vercel.app">
+        <img src="https://via.placeholder.com/400x220.png?text=E-commerce" width="95%" />
+      </a>
+      <br/><br/>
+      <b>🛒 E-commerce Platform</b><br/>
+      <sub>React • Node.js • Stripe</sub><br/><br/>
+      <a href="https://shop.vercel.app">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/shop">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://dashboard.streamlit.app">
+        <img src="https://via.placeholder.com/400x220.png?text=Data+Dashboard" width="95%" />
+      </a>
+      <br/><br/>
+      <b>📊 Data Dashboard</b><br/>
+      <sub>Python • Streamlit • Pandas</sub><br/><br/>
+      <a href="https://dashboard.streamlit.app">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/dashboard">💻 Source Code</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://ai-project.vercel.app">
+        <img src="https://via.placeholder.com/400x220.png?text=AI+Project" width="95%" />
+      </a>
+      <br/><br/>
+      <b>🧠 AI Project</b><br/>
+      <sub>TensorFlow • Deep Learning • Python</sub><br/><br/>
+      <a href="https://ai-project.vercel.app">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/ai-project">💻 Source Code</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 <br/>
