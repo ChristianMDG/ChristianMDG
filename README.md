@@ -238,7 +238,7 @@ christian@mdg ~ $ _
       <br/><br/>
       <b>🧠 AI Project</b><br/>
       <sub>TensorFlow • Deep Learning • Python</sub><br/><br/>
-      <a href="https://christianmdg.github.io/Pokedex/">🔗 Live Demo</a> •
+      <a href="https://pokedex-tta8.vercel.app/">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/Pokedex">💻 Source Code</a>
     </td>
   </tr>
