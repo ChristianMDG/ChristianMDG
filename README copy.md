@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=560&lines=👋+Hey%2C+I'm+Christian!;🌍+Building+from+Madagascar;🚀+FullStack+Developer;🤖+Data+Scientist+%2F+AI+Explorer;✨+Three.js+%7C+3D+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;+FullStack+Developer;+Data-Scientist/Ai;+Welcome+to+my+Universe)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,8 +18,6 @@
 <br/>
 
 ---
-
-## 🧑‍💻 whoami &nbsp;·&nbsp; 📡 status
 
 <table>
 <tr>
@@ -75,7 +73,7 @@ christian@mdg ~ $ _
 ```
 
 > *"Turning data into decisions*
-> *and ideas into code."* 🚀
+> *and ideas into code."*
 
 </td>
 </tr>
@@ -129,8 +127,7 @@ christian@mdg ~ $ _
 <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" title="NumPy"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas"/>&nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Matplotlib"/>&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Seaborn"/>&nbsp;
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" title="Jupyter Notebook"/></a>&nbsp;
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" title="Jupyter"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="HuggingFace"/>
 </p>
 
@@ -144,45 +141,6 @@ christian@mdg ~ $ _
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/></a>
 </p>
-
-</div>
-
-<br/>
-
----
-
-## 🤖 Data Science & AI Profile
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   AI / DATA SCIENCE TOOLKIT                     │
-├──────────────────────┬──────────────────────────────────────────┤
-│  📊 Data Analysis    │  Python · Pandas · NumPy · Matplotlib    │
-│  🧠 Machine Learning │  Scikit-learn · XGBoost · RandomForest   │
-│  🔥 Deep Learning    │  TensorFlow · PyTorch · Keras            │
-│  🤗 NLP / LLMs       │  HuggingFace · Transformers · LangChain  │
-│  📈 Visualization    │  Matplotlib · Seaborn · Plotly           │
-│  🧪 Notebooks        │  Jupyter · Google Colab                  │
-│  ☁️  MLOps           │  FastAPI · Docker · GitHub Actions       │
-└──────────────────────┴──────────────────────────────────────────┘
-```
-
-</div>
-
-### 🧠 AI/ML Focus Areas
-
-<div align="center">
-
-| Domain | Skills | Level |
-|--------|--------|-------|
-| 📊 Data Analysis & EDA | Pandas · NumPy · Seaborn | `████████░░` 80% |
-| 🤖 Machine Learning | Scikit-learn · XGBoost | `███████░░░` 70% |
-| 🔥 Deep Learning | TensorFlow · PyTorch | `██████░░░░` 60% |
-| 🗣️ NLP / LLMs | HuggingFace · Transformers | `█████░░░░░` 50% |
-| 📈 Data Visualization | Matplotlib · Plotly | `████████░░` 80% |
-| ☁️ MLOps & Deployment | FastAPI · Docker | `██████░░░░` 60% |
 
 </div>
 
@@ -224,7 +182,7 @@ christian@mdg ~ $ _
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ChristianMDG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=ChristianMDG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -236,7 +194,7 @@ christian@mdg ~ $ _
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ChristianMDG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=ChristianMDG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
@@ -310,11 +268,10 @@ christian@mdg ~ $ _
 [![Visitor Badge](https://visitcount.itsvg.in/api?id=ChristianMDG&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║  "The best way to predict the future is to code it.  ║
-║   The best way to understand it is to model it." 🚀  ║
-║                         — Christian MDG              ║
-╚═══════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════╗
+║  "The best way to predict the future is to        ║
+║   code it."               — Christian MDG  🚀     ║
+╚═══════════════════════════════════════════════════╝
 ```
 
 **Madagascar 🇲🇬 · © 2025 Christian RAVELOJAONA**

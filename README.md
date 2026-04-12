@@ -1,12 +1,10 @@
-
 <div align="center">
 
 ![Banner](assets/banner.png)
 
-
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;+FullStack+Developer;+Data-Scientist/Ai;+Welcome+to+my+Univer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;+FullStack+Developer;+Data-Scientist/Ai;+Welcome+to+my+Universe)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,10 +18,6 @@
 <br/>
 
 ---
-
-<!-- ████████████████████████████████████████████
-     ABOUT — SPLIT LAYOUT
-████████████████████████████████████████████ -->
 
 <table>
 <tr>
@@ -79,7 +73,7 @@ christian@mdg ~ $ _
 ```
 
 > *"Turning data into decisions*
-> *and ideas into code."* 
+> *and ideas into code."*
 
 </td>
 </tr>
@@ -88,7 +82,9 @@ christian@mdg ~ $ _
 <br/>
 
 ---
+
 ## ⚡ Tech Arsenal
+
 <div align="center">
 
 ### 🎨 Frontend
@@ -121,13 +117,18 @@ christian@mdg ~ $ _
 <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" title="Prisma"/></a>
 </p>
 
-### 🐍 Data & Analytics
+### 🤖 Data Science & AI / ML
 
 <p align="center">
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/></a>&nbsp;
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow"/></a>&nbsp;
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"/></a>&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn" title="Scikit-learn"/></a>&nbsp;
 <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" title="NumPy"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas" title="Pandas"/>&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Matplotlib" title="Matplotlib"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas"/>&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Matplotlib"/>&nbsp;
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" title="Jupyter"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="HuggingFace"/>
 </p>
 
 ### 🛠️ Tools & Design
@@ -141,8 +142,9 @@ christian@mdg ~ $ _
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/></a>
 </p>
 
-<br/>
 </div>
+
+<br/>
 
 ---
 
@@ -180,7 +182,7 @@ christian@mdg ~ $ _
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ChristianMDG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=ChristianMDG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -192,7 +194,7 @@ christian@mdg ~ $ _
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ChristianMDG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=ChristianMDG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
@@ -207,9 +209,11 @@ christian@mdg ~ $ _
 | | Technology | Progress | Status |
 |--|-----------|----------|--------|
 | <img src="https://skillicons.dev/icons?i=spring" height="20"/> | **Spring Boot** | `████████░░` 80% | 🔥 Active |
+| <img src="https://skillicons.dev/icons?i=tensorflow" height="20"/> | **TensorFlow / Deep Learning** | `██████░░░░` 60% | 🧠 Ongoing |
+| <img src="https://skillicons.dev/icons?i=pytorch" height="20"/> | **PyTorch** | `█████░░░░░` 50% | 🌱 Learning |
 | <img src="https://skillicons.dev/icons?i=react" height="20"/> | **React Advanced** | `██████████` 100% | ✅ Done |
 | <img src="https://skillicons.dev/icons?i=postgres" height="20"/> | **PostgreSQL Deep Dive** | `███████░░░` 70% | 📚 Ongoing |
-| <img src="https://skillicons.dev/icons?i=python" height="20"/> | **Python Data Science** | `█████░░░░░` 50% | 🌱 Learning |
+| <img src="https://skillicons.dev/icons?i=python" height="20"/> | **Python Data Science** | `████████░░` 80% | 📊 Active |
 
 </div>
 
