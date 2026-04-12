@@ -238,8 +238,8 @@ christian@mdg ~ $ _
       <br/><br/>
       <b>🧠 AI Project</b><br/>
       <sub>TensorFlow • Deep Learning • Python</sub><br/><br/>
-      <a href="https://ai-project.vercel.app">🔗 Live Demo</a> •
-      <a href="https://github.com/ChristianMDG/ai-project">💻 Source Code</a>
+      <a href="https://christianmdg.github.io/Pokedex/">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/Pokedex">💻 Source Code</a>
     </td>
   </tr>
 
