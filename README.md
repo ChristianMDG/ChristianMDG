@@ -233,7 +233,7 @@ christian@mdg ~ $ _
     </td>
     <td align="center" width="50%" style="padding:15px;">
       <a href="https://ai-project.vercel.app">
-        <img src="https://via.placeholder.com/400x220.png?text=AI+Project" width="95%" />
+        <img src="assets/pokedex.png" width="95%" />
       </a>
       <br/><br/>
       <b>🧠 AI Project</b><br/>
