@@ -214,14 +214,15 @@ christian@mdg ~ $ _
       <br/>
     </td>
     <td align="center" width="50%" style="padding:15px;">
-      <a href=" https://planifeomoney.vercel.app/">
+      <a href="https://planifeomoney.vercel.app/">
         <img src="assets/planifeo.png" width="95%" />
       </a>
       <br/>
       <b>Planifeo App</b><br/>
-      <sub>React • Node.js • Express Js • Prisma </sub><br/><br/>
-      <a href="
-      https://planifeomoney.vercel.app/">🔗 Live Demo</a> •
+      <sub>React • Node.js • Express Js • Prisma </sub>
+      <br/>
+      <br/>
+      <a href="https://planifeomoney.vercel.app/">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/Planifeo_frontend">💻 Source Code Frontend</a>
       <br/>
        <a href="https://github.com/ChristianMDG/Planifeo_backend">💻 Source Code Backend</a>
