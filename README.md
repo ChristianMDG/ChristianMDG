@@ -195,9 +195,10 @@ christian@mdg ~ $ _
 
 <div align="center">
 
-<table cellspacing="20" cellpadding="15">
+<table width="100%" cellspacing="15" cellpadding="10">
+
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:15px;">
       <a href="https://ton-app.com">
         <img src="https://via.placeholder.com/400x220.png?text=App+Immobilier" width="95%" />
       </a>
@@ -207,7 +208,7 @@ christian@mdg ~ $ _
       <a href="https://ton-app.com">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/app-immo">💻 Source Code</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:15px;">
       <a href="https://shop.vercel.app">
         <img src="https://via.placeholder.com/400x220.png?text=E-commerce" width="95%" />
       </a>
@@ -218,8 +219,9 @@ christian@mdg ~ $ _
       <a href="https://github.com/ChristianMDG/shop">💻 Source Code</a>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:15px;">
       <a href="https://dashboard.streamlit.app">
         <img src="https://via.placeholder.com/400x220.png?text=Data+Dashboard" width="95%" />
       </a>
@@ -229,7 +231,7 @@ christian@mdg ~ $ _
       <a href="https://dashboard.streamlit.app">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/dashboard">💻 Source Code</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:15px;">
       <a href="https://ai-project.vercel.app">
         <img src="https://via.placeholder.com/400x220.png?text=AI+Project" width="95%" />
       </a>
@@ -240,6 +242,7 @@ christian@mdg ~ $ _
       <a href="https://github.com/ChristianMDG/ai-project">💻 Source Code</a>
     </td>
   </tr>
+
 </table>
 
 </div>
