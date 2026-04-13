@@ -214,7 +214,7 @@ christian@mdg ~ $ _
       <br/>
     </td>
     <td align="center" width="50%" style="padding:15px;">
-      <a href="https://planifeomoney.vercel.app/">
+      <a href="https://planifeo.vercel.app/">
         <img src="assets/planifeo.png" width="95%" />
       </a>
       <br/>
