@@ -1,11 +1,6 @@
 <div align="center">
 
 ![Banner](assets/banner.png)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=EBD41B&center=true&vCenter=true&repeat=true&width=520&lines=👋+Hey%2C+I'm+Christian!;+FullStack+Developer;+Data-Scientist/Ai;+Welcome+to+my+Universe)](https://git.io/typing-svg)
-
 <br/>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
