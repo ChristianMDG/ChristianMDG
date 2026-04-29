@@ -11,12 +11,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ChristianRavelojaona)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EBD41B?style=for-the-badge&logo=vercel&logoColor=black)](https://christian-portfolio-u9jz.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hei.christian.3@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ChristianMDG&style=for-the-badge&color=6366f1&label=VIEWS)](https://github.com/ChristianMDG)
-
+<p align="center">
+  <a href="https://linkedin.com/in/ChristianRavelojaona">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://christian-portfolio-u9jz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=vercel&logoColor=EBD41B" />
+  </a>
+  <a href="mailto:hei.christian.3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ChristianMDG&style=for-the-badge&color=6366f1&label=VIEWS" />
+</p>
 </div>
 
 <br/>
