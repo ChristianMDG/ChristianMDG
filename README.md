@@ -16,9 +16,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ChristianMDG&style=for-the-badge&color=6366f1&label=VIEWS" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=60&section=footer&animation=fadeIn" />
-</p
+
 <br/>
 
 ---
