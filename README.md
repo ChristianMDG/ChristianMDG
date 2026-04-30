@@ -6,19 +6,19 @@
 <br>
 <p align="center">
   <a href="https://linkedin.com/in/ChristianRavelojaona">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://christian-portfolio-u9jz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=vercel&logoColor=EBD41B" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=vercel&logoColor=EBD41B" />
   </a>
   <a href="mailto:hei.christian.3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ChristianMDG&style=for-the-badge&color=6366f1&label=VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ChristianMDG&style=for-the-badge&color=6366f1&label=VIEWS" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=20&section=footer&animation=fadeIn" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=60&section=footer&animation=fadeIn" />
+</p
 <br/>
 
 ---
