@@ -24,7 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=ChristianMDG&style=for-the-badge&color=6366f1&label=VIEWS" />
 </p>
 </div>
-
 <br/>
 
 ---
