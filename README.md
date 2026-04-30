@@ -336,6 +336,7 @@ christian@mdg ~ $ _
  ---
 
 <div align="center">
+    
 ![Banner](assets/banner.png)
     
 **Madagascar 🇲🇬 · © 2025 Christian RAVELOJAONA**
