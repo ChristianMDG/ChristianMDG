@@ -30,58 +30,34 @@
 
 ---
 
-
----
-
-## 2. STYLE TERMINAL HACKER — *"Le DevOps créatif"*
-
-```md
-<!--
-🖥️ Style : Terminal / Hacker / Cyberpunk
-Couleurs : Vert (#0F0), noir, gris
-Ambiance : Code, CLI, matrix
--->
-
 <div align="center">
-  <pre>
-  ╔══════════════════════════════════════════════════════╗
-  ║     christian@mdg:~/github$ ./show_profile.sh        ║
-  ╚══════════════════════════════════════════════════════╝
-  </pre>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Christian+RAVELOJAONA;FullStack+%7C+Data+Sci+%7C+AI;From+Madagascar+🇲🇬" alt="Typing SVG" />
 </div>
 
-```bash
-┌──(christian㉿madagascar)-[~]
-└─$ whoami
-> FullStack · Data Scientist · AI Explorer
-
-┌──(christian㉿madagascar)-[~]
-└─$ cat stack.txt
-FRONTEND   │ React · Vite · Tailwind · Three.js
-BACKEND    │ Node.js · Express · Spring Boot · FastAPI
-DATA/AI    │ Python · TensorFlow · Pandas · NumPy
-DATABASE   │ PostgreSQL · Prisma
-
-┌──(christian㉿madagascar)-[~]
-└─$ echo $STATUS
-"Open to work · Freelance · AI collaboration"
-
-┌──(christian㉿madagascar)-[~]
-└─$ cat learning.log
-[✓] Spring Boot (en cours)
-[✓] Deep Learning (en cours)
-
-┌──(christian㉿madagascar)-[~]
-└─$ grep contact info.txt
-> hei.christian.3@gmail.com
-> https://christian-portfolio-u9jz.vercel.app
-
-┌──(christian㉿madagascar)-[~]
-└─$ fortune
-"Turning data into decisions, and ideas into code."
 <br/>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,tensorflow,py,ts,tailwind,postgres" />
+</div>
+
 ---
+
+### ✦ Qui suis-je ?
+
+```python
+class Christian:
+    location = "Antananarivo, Madagascar 🇲🇬"
+    roles = ["🚀 FullStack", "📊 Data Scientist", "🧠 AI Explorer"]
+    stack = {
+        "frontend": ["React", "TailwindCSS", "Three.js"],
+        "backend": ["Node.js", "Spring Boot", "FastAPI"],
+        "ai": ["TensorFlow", "Scikit-learn", "Pandas"],
+    }
+    status = "Open to work · Freelance · Collab"
+
+me = Christian()
+```
+
 
 ## ⚡ Tech Arsenal
 
