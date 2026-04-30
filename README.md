@@ -30,34 +30,38 @@
 
 ---
 
+<!--
+🌌 Style : Space / Galaxy / Cosmic
+Couleurs : Violet, magenta, cyan étoilé
+Ambiance : Explorateur IA
+-->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Christian+RAVELOJAONA;FullStack+%7C+Data+Sci+%7C+AI;From+Madagascar+🇲🇬" alt="Typing SVG" />
+  <pre>
+  ╔════════════════════════════════════════╗
+  ║   🚀 Christian RAVELOJAONA             ║
+  ║   🌍 Madagascar                        ║
+  ║   🧬 FullStack · Data · AI             ║
+  ╚════════════════════════════════════════╝
+  </pre>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,tensorflow,py,ts,tailwind,postgres" />
-</div>
-
----
-
-### ✦ Qui suis-je ?
 
 ```python
-class Christian:
-    location = "Antananarivo, Madagascar 🇲🇬"
-    roles = ["🚀 FullStack", "📊 Data Scientist", "🧠 AI Explorer"]
-    stack = {
-        "frontend": ["React", "TailwindCSS", "Three.js"],
-        "backend": ["Node.js", "Spring Boot", "FastAPI"],
-        "ai": ["TensorFlow", "Scikit-learn", "Pandas"],
-    }
-    status = "Open to work · Freelance · Collab"
+# astronaut_profile.py
+from galaxy import PlanetEarth
 
-me = Christian()
+christian = {
+    "origin": "Madagascar 🇲🇬",
+    "missions": ["FullStack", "Data Science", "AI"],
+    "tools": {
+        "frontend": "🌐 React · Tailwind · Three.js",
+        "backend": "⚙️ Node.js · Spring Boot",
+        "ai": "🧠 TensorFlow · Scikit-learn",
+    },
+    "status": "🟢 Orbiting new opportunities",
+    "contact": "hei.christian.3@gmail.com"
+}
 ```
-
 
 ## ⚡ Tech Arsenal
 
