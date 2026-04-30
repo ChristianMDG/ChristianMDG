@@ -16,10 +16,8 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ChristianMDG&style=for-the-badge&color=6366f1&label=VIEWS" alt="Profile views" />
 </p>
-
-<!-- Vague animée sous les badges -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=60&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=20&section=footer&animation=fadeIn" />
 </p>
 <br/>
 
