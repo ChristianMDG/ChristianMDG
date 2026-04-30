@@ -65,64 +65,126 @@ christian = {
 
 ## ⚡ Tech Arsenal
 
-<div align="center">
-
-### 🎨 Frontend
-
-<p align="center">
-<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/></a>&nbsp;
-<a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite"/></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" title="TailwindCSS"/></a>&nbsp;
-<a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" title="Three.js"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/></a>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/></a>&nbsp;
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/></a>&nbsp;
-<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"/></a>&nbsp;
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java"/></a>
-</p>
-
-### 🗄️ Database & ORM
-
-<p align="center">
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
-<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" title="Prisma"/></a>
-</p>
-
-### 🤖 Data Science & AI / ML
-
-<p align="center">
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/></a>&nbsp;
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow"/></a>&nbsp;
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"/></a>&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn" title="Scikit-learn"/></a>&nbsp;
-<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" title="NumPy"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas"/>&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Matplotlib"/>&nbsp;
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" title="Jupyter"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="HuggingFace"/>
-</p>
-
-### 🛠️ Tools & Design
-
-<p align="center">
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/></a>&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/></a>&nbsp;
-<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/></a>&nbsp;
-<a href="https://www.canva.com/"><img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva" title="Canva"/></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/></a>
-</p>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 
 <br/>
 
