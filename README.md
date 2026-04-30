@@ -37,7 +37,6 @@
 <td width="55%" valign="top">
 
 ## `$ whoami`
-
 ```typescript
 const christian = {
   name     : "Christian RAVELOJAONA",
@@ -47,7 +46,6 @@ const christian = {
     "Data Scientist 📊",
     "AI Explorer 🤖",
   ],
-
   stack: {
     frontend : ["React", "Vite", "TailwindCSS", "Three.js"],
     backend  : ["Node.js", "Express.js", "Spring Boot", "FastAPI"],
@@ -56,7 +54,6 @@ const christian = {
                 "Pandas", "NumPy", "Matplotlib"],
     langs    : ["TypeScript", "JavaScript", "Java", "Python"],
   },
-
   learning : ["Spring Boot 🌱", "Deep Learning 🧠"],
   openTo   : "Freelance · Open Source · AI Projects",
   funFact  : "I turn data into insights & coffee into code ✨",
@@ -67,21 +64,17 @@ const christian = {
 <td width="45%" valign="top">
 
 ## `$ status`
-
 ```bash
 christian@mdg ~ $ status
-
   roles     → FullStack Dev · Data Sci · AI
   location  → Madagascar 🇲🇬
   learning  → Spring Boot · Deep Learning
   goal      → Build impactful AI products
-  contact   → hei.christian.3@gmail
+  contact   → hei.christian.3@gmail.com
   portfolio → https://christian-portfolio-u9jz.vercel.app/ ↗
-
   # availability
   status    → ● Open to work
   open_to   → Freelance · Collab · AI
-
 christian@mdg ~ $ _
 ```
 
