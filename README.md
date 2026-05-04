@@ -29,24 +29,6 @@
 <br/>
 
 ---
-
-<!--
-🌌 Style : Space / Galaxy / Cosmic
-Couleurs : Violet, magenta, cyan étoilé
-Ambiance : Explorateur IA
--->
-
-<div align="center">
-  <pre>
-  ╔════════════════════════════════════════╗
-  ║   🚀 Christian RAVELOJAONA             ║
-  ║   🌍 Madagascar                        ║
-  ║   🧬 FullStack · Data · AI             ║
-  ╚════════════════════════════════════════╝
-  </pre>
-</div>
-
-
 ## ⚡ Tech Arsenal
 
 <table align="center">
