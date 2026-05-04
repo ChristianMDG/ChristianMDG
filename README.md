@@ -46,22 +46,6 @@ Ambiance : Explorateur IA
   </pre>
 </div>
 
-```python
-# astronaut_profile.py
-from galaxy import PlanetEarth
-
-christian = {
-    "origin": "Madagascar 🇲🇬",
-    "missions": ["FullStack", "Data Science", "AI"],
-    "tools": {
-        "frontend": "🌐 React · Tailwind · Three.js",
-        "backend": "⚙️ Node.js · Spring Boot",
-        "ai": "🧠 TensorFlow · Scikit-learn",
-    },
-    "status": "🟢 Orbiting new opportunities",
-    "contact": "hei.christian.3@gmail.com"
-}
-```
 
 ## ⚡ Tech Arsenal
 
