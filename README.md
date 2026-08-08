@@ -212,16 +212,6 @@
       <a href="https://traffic-ai-3szvrge57wehtps7ghcb2d.streamlit.app/">🔗 Live Demo</a> •
       <a href="https://github.com/ChristianMDG/Traffic-Ai">💻 Source Code</a>
     </td>
-    <td align="center" width="50%" style="padding:15px;">
-      <a href="https://pokedex-tta8.vercel.app/">
-        <img src="assets/pokedex.png" width="95%" />
-      </a>
-      <br/><br/>
-      <b>🧠 Pokedex</b><br/>
-      <sub>React • Vite • Tailwindcss</sub><br/><br/>
-      <a href="https://pokedex-tta8.vercel.app/">🔗 Live Demo</a> •
-      <a href="https://github.com/ChristianMDG/Pokedex">💻 Source Code</a>
-    </td>
   </tr>
 
 </table>
