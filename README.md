@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=60&section=footer&animation=fadeIn" />
-</p
+</p>
 <br/>
 
 ---
@@ -34,9 +34,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -60,7 +58,7 @@
       <br>Linux
     </td>
   </tr>
-  
+
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -114,29 +112,36 @@
       <br>Vite
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fedora" width="48" height="48" alt="Fedora" />
+      <br>Fedora
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+  </tr>
 </table>
 
 <br/>
-
-<!-- ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChristianMDG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-&nbsp;
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=ChristianMDG&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMDG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8" />
-
-</div>
-
-<br/>
-
---- -->
 
 ## 📈 Contribution Graph
 
@@ -148,22 +153,11 @@
 
 <br/>
 
-<!-- ---
+<h2 align="center">🚀 Projets</h2>
 
-## 🏆 GitHub Trophies
+<p align="center"><sub>81 dépôts au total sur <a href="https://github.com/ChristianMDG?tab=repositories">mon profil GitHub</a> — voici les plus significatifs.</sub></p>
 
-<div align="center">
-
-![Top trophies](https://github-profile-trophy.vercel.app/?username=ChristianMDG&rank=SSS,SS,AAA)
-
-</div>
-
-<br/>
-
----
--->
-
-<h2 align="center">🚀 Projects</h2>
+### 🎓 Projets académiques — HEI d'Ivandry
 
 <div align="center">
 
@@ -171,105 +165,118 @@
 
   <tr>
     <td align="center" width="50%" style="padding:15px;">
-      <a href="https://christian-portfolio-u9jz.vercel.app/">
-        <img src="assets/portfolio.png" width="95%" />
-      </a>
-      <br/><br/>
-      <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
-  <img src="assets/logoportfolio.png" width="20" /><br/>
-  <b>Portfolio</b>
-</div>
-      <br/>
-      <sub>React • Tailwindcss • Framer Motion</sub><br/><br/>
-      <a href="https://christian-portfolio-u9jz.vercel.app/">🔗 Live Demo</a> •
-      <a href="https://github.com/ChristianMDG/Christian_Portfolio">💻 Source Code</a>
-      <br/>
+      <b>🎬 Cinema Reservation System</b><br/><br/>
+      <sub>Spring Boot • JWT • PostgreSQL (Neon) • Testcontainers • Poja/AWS Lambda</sub><br/><br/>
+      <sub>API REST complète (Users/Reservations/Security), auth JWT, rôles CLIENT/EMPLOYEE/MANAGER, tests d'intégration, OpenAPI.</sub><br/><br/>
+      <a href="https://github.com/ChristianMDG/cinema">💻 Source Code</a>
     </td>
     <td align="center" width="50%" style="padding:15px;">
-      <a href="https://planifeo.vercel.app/">
-        <img src="assets/planifeo.png" width="95%" />
-      </a>
-      <br/>
-      <b>Planifeo App</b><br/>
-      <sub>React • Node.js • Express Js • Prisma </sub>
-      <br/>
-      <br/>
-      <a href="https://planifeo.vercel.app/">🔗 Live Demo</a> •
-      <a href="https://github.com/ChristianMDG/Planifeo_frontend">💻 Source Code Frontend</a>
-      <br/>
-       <a href="https://github.com/ChristianMDG/Planifeo_backend">💻 Source Code Backend</a>
+      <b>🌱 DataGreen</b><br/><br/>
+      <sub>Python • Airflow • MinIO • Great Expectations • PostgreSQL • Streamlit</sub><br/><br/>
+      <sub>Pipeline 24/7 de suivi de la qualité de l'air : orchestration, dashboard, dark theme, anomaly detection.</sub><br/><br/>
+      <a href="https://github.com/ChristianMDG/DataGreen">💻 Source Code</a> •
+      <a href="https://github.com/ChristianMDG/Datagreen_Aqi_pipeline">💻 Pipeline AQI</a>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%" style="padding:15px;">
-      <a href="https://traffic-ai-3szvrge57wehtps7ghcb2d.streamlit.app/">
-        <img src="assets/Traffic_Ai.png" width="95%" />
-      </a>
-      <br/><br/>
-      <b>📊 Trafic-Ai</b><br/>
-      <sub>Python • Streamlit • Pandas</sub><br/><br/>
-      <a href="https://traffic-ai-3szvrge57wehtps7ghcb2d.streamlit.app/">🔗 Live Demo</a> •
-      <a href="https://github.com/ChristianMDG/Traffic-Ai">💻 Source Code</a>
+      <b>📚 vidy-boky</b><br/><br/>
+      <sub>Spring Boot 3.2.2 • JPA/Hibernate • PostgreSQL (Neon) • Poja/SAM/AWS Lambda</sub><br/><br/>
+      <sub>API de bibliothèque — Tech Lead d'une équipe de 5. Exceptions custom, revenu par genre, ISBN lookup.</sub><br/><br/>
+      <a href="https://github.com/ChristianMDG/vidy-boky">💻 Source Code</a>
+    </td>
+    <td align="center" width="50%" style="padding:15px;">
+      <b>🌾 Fédération Agricole</b><br/><br/>
+      <sub>Java • Spring Boot • OpenAPI 3.0.3</sub><br/><br/>
+      <sub>API REST pour une fédération de collectivités agricoles, spec OpenAPI v1.0/v1.1 avec règles de parité sponsor.</sub><br/><br/>
+      <a href="https://github.com/ChristianMDG/Federation_collectivite_agricole_2026">💻 Source Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%" style="padding:15px;">
+      <b>♻️ EcoVert Mada</b><br/><br/>
+      <sub>Node.js • Express • TypeScript • Prisma • Zod • JWT</sub><br/><br/>
+      <sub>Plateforme écologique multi-domaines (e-commerce, cours, énergie renouvelable, déchets) avec module devis.</sub><br/><br/>
+      <a href="https://github.com/ChristianMDG/EcoSystemVertServer">💻 Backend</a> •
+      <a href="https://github.com/ChristianMDG/EcosystemVertClient">💻 Frontend</a>
+    </td>
+    <td align="center" width="50%" style="padding:15px;">
+      <b>🏠 A-Nofa-Trano</b><br/><br/>
+      <sub>TypeScript</sub><br/><br/>
+      <sub>Plateforme immobilière à Madagascar connectant locataires et propriétaires en toute sécurité via un Admin.</sub><br/><br/>
+      <a href="https://github.com/ChristianMDG/A_nofa_trano">💻 Source Code</a>
     </td>
   </tr>
 
 </table>
 
 </div>
-<br/>
 
-<!-- --- 
-
-## 🌱 Learning Progress
-
-## 🚀 Tech Stack Progress
-
-🔹 **Spring Boot**  
-████████░░  
-🔥 Active  
-
-🔹 **TensorFlow / Deep Learning**  
-██████░░░░  
-🧠 Ongoing  
-
-🔹 **PyTorch**  
-█████░░░░░  
-🌱 Learning  
-
-🔹 **React Advanced**  
-██████████  
-✅ Completed  
-
-🔹 **PostgreSQL Deep Dive**  
-███████░░░  
-📚 Ongoing  
-
-🔹 **Python Data Science**  
-████████░░  
-📊 Active  
-
-<br/>
-
---- -->
-<!-- 
-## 🐍 Contribution Snake
+### 🛠️ Projets personnels
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ChristianMDG/ChristianMDG/output/github-snake-dark.svg"/>
-</picture>
+<table width="100%" cellspacing="15" cellpadding="10">
 
-> 💡 Activate with GitHub Actions — see [platane/snk](https://github.com/platane/snk)
+  <tr>
+    <td align="center" width="50%" style="padding:15px;">
+      <b>Portfolio</b><br/><br/>
+      <sub>React • Tailwindcss • Framer Motion</sub><br/><br/>
+      <a href="https://christian-portfolio-u9jz.vercel.app/">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/Christian_Portfolio">💻 Source Code</a>
+    </td>
+    <td align="center" width="50%" style="padding:15px;">
+      <b>Planifeo</b><br/><br/>
+      <sub>React • Node.js • Express • Prisma</sub><br/><br/>
+      <a href="https://planifeo.vercel.app/">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/Planifeo_frontend">💻 Frontend</a> •
+      <a href="https://github.com/ChristianMDG/Planifeo_backend">💻 Backend</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%" style="padding:15px;">
+      <b>📊 Trafic-Ai</b><br/><br/>
+      <sub>Python • Streamlit • Pandas</sub><br/><br/>
+      <a href="https://traffic-ai-3szvrge57wehtps7ghcb2d.streamlit.app/">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/Traffic-Ai">💻 Source Code</a>
+    </td>
+    <td align="center" width="50%" style="padding:15px;">
+      <b>🧠 Pokedex</b><br/><br/>
+      <sub>React • Vite • Tailwindcss</sub><br/><br/>
+      <a href="https://pokedex-tta8.vercel.app/">🔗 Live Demo</a> •
+      <a href="https://github.com/ChristianMDG/Pokedex">💻 Source Code</a>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+### 📚 Apprentissage & exercices
+
+<div align="center">
+
+| Projet | Stack | Lien |
+|---|---|---|
+| **TodoWithTestIntegration** | Java, Spring Boot, Testcontainers | [🔗](https://github.com/ChristianMDG/TodoWithTestIntegration) |
+| **React-Admin-exercice** | TypeScript, React Admin | [🔗](https://github.com/ChristianMDG/React-Admin-exercice) |
+| **Learn_Next_Js** | JavaScript, Next.js | [🔗](https://github.com/ChristianMDG/Learn_Next_Js) |
+| **Pern_Auth** | PERN, JWT, Cookies | [🔗](https://github.com/ChristianMDG/Pern_Auth) |
+| **hello-world-poja** | Java, Poja, Spring Boot | [🔗](https://github.com/ChristianMDG/hello-world-poja) |
+| **spring-http-handler** | Java, Spring | [🔗](https://github.com/ChristianMDG/spring-http-handler) |
+| **Hotel_FastApi_To_Spring** | Java, Spring, FastAPI | [🔗](https://github.com/ChristianMDG/Hotel_FastApi_To_Spring) |
+| **Building-a-RESTful-Web-Service-With-Spring** | Java, Spring | [🔗](https://github.com/ChristianMDG/Building-a-RESTful-Web-Service-With-Spring) |
+| **To_Do_App_Pern** | PERN | [🔗](https://github.com/ChristianMDG/To_Do_App_Pern) |
+| **i-bosy-backend** | JavaScript | [🔗](https://github.com/ChristianMDG/i-bosy-backend) |
+| **DataScience** | Jupyter Notebook | [🔗](https://github.com/ChristianMDG/DataScience) |
+| **Challenge_Web** | HTML, CSS | [🔗](https://github.com/ChristianMDG/Challenge_Web) |
 
 </div>
 
 <br/>
-
---- -->
 
 ## 🤝 Let's Connect
 
@@ -291,12 +298,12 @@
 
 <br/>
 
- ---
+---
 
 <div align="center">
-    
+
 ![Banner](assets/banner.png)
-    
-**Madagascar 🇲🇬 · © 2025 Christian RAVELOJAONA**
+
+**Madagascar 🇲🇬 · © 2026 Christian RAVELOJAONA**
 
 </div>
